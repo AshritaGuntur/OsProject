@@ -1,1 +1,8 @@
 # OsProject
+Security has become an integral aspect of modern computing systems. From basic login portals to high-level enterprise applications, user authentication plays a pivotal role in safeguarding data and controlling access. The project titled “Basic Security System in C” is a simplified simulation of user registration and login mechanism, implemented using the C programming language.
+
+This system allows a user to register with a custom username and password. Once registered, the system prompts the user to log in using the credentials. If the user enters incorrect credentials consecutively, the system triggers a lockout period during which login attempts are temporarily disabled. After the lock duration, the user can attempt to log in again. This functionality mimics real-world systems such as ATM login delays, account lockouts, or administrative login systems that prioritize both security and usability.
+
+This project introduces core programming concepts such as string manipulation, conditional checks, loops, use of time-based functions for delays, and global variable management. By incorporating basic cybersecurity principles into a beginner-friendly project, this implementation not only enhances coding skills but also cultivates awareness about system protection and safe authentication practices.
+
+The abstract provides an overview of the project's scope, motivation, and objectives. It reflects how a simple, command-line interface can represent fundamental security workflows while giving a strong foundation for future enhancements such as encryption, database connectivity, or biometric integration.
